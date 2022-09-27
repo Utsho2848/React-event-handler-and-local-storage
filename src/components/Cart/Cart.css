@@ -1,0 +1,8 @@
+.cart {
+    position: sticky;
+    top: 20px;
+    background-color: blanchedalmond;
+    border: 1px solid cadetblue;
+    padding: 10px;
+    margin-top: 20px;
+}

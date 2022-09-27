@@ -1,0 +1,13 @@
+.product-btn {
+    width: 50%;
+    height: 48px;
+    border: 1px solid seagreen;
+    background-color: blanchedalmond;
+    font-weight: 700;
+}
+
+.item {
+    border: 1px solid seagreen;
+    margin: 20px;
+    padding: 10px;
+}
